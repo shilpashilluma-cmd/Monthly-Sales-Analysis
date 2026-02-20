@@ -14,6 +14,5 @@ Analyze monthly revenue and order volume from online_sales dataset.
 
 ## Tools Used
 MySQL (DB Fiddle)
-
 ## Outcome
 Learned grouping data and analyzing time trends using SQL.
